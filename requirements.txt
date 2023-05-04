@@ -1,0 +1,34 @@
+The partner, espress tutorials, uses workos as I mentioned
+
+" we setup WorkOs, here are the links to configure your connections:
+Identity Provider: https://setup.workos.com/s/idIgtUtYvbe20S8Mk08B002Op
+Directory Provider: https://setup.workos.com/s/6b1c6DSESv7XjMN3LEvVVMK1y
+
+
+
+https://setup.workos.com/s/idIgtUtYvbe20S8Mk08B002Op
+https://setup.workos.com
+
+https://setup.workos.com/s/6b1c6DSESv7XjMN3LEvVVMK1y
+https://setup.workos.com
+They provided these two links
+
+For implementation on our end
+
+Another note from them
+
+The ACS URL must be added to the MMC - michaelmanagement settings to complete this connection.
+https://auth.workos.com/sso/saml/acs/XeuxJl8vSUFXccpSNQG4gpWdT
+https://auth.workos.com/sso/saml/XeuxJl8vSUFXccpSNQG4gpWdT/metadata.xml
+I guess the configuration is not finally done, you have to add those urls to your SAML Settings to get it work.
+https://workos.com/docs/integrations/saml
+
+
+
+https://www.loom.com/share/df31c17c89fa4b3e9f54ed125657e4cd
+
+
+------
+dev2.michaelmanagement.com
+et@michaelmanagement.com //
+
